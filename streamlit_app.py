@@ -96,14 +96,19 @@ content_data = {
     labels[1]: {
         'images': [
             "",
-            "https://i.ibb.co/QkMfNmm/1000-20230207033700515-1.jpg",
-            "https://i.ibb.co/C6w79sW/depositphotos-42061579-stock-photo-carrot-isolated.jpg",
-            "https://i.ibb.co/LQpmZsQ/OIP.jpg"
+            "https://i.ibb.co/s54NvZD/ea4557acd64c49bb80be5ed97884dfbb-512.jpg",
+            "https://i.ibb.co/zZJ4541/img.jpg",
+            "https://i.ibb.co/gFd3JGB/1-1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=A2FMU3kArDU",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.c군"
+            "https://www.youtube.com/watch?v=2WMz0fURGk8",
+            "https://www.youtube.com/watch?v=LEx1rmSQRGQ",
+            "https://www.youtube.com/watch?v=a0j_sWvNGvc"
+        ],
+         'texts': [
+            "콜라비 재배방법",
+            "콜라비의 효능",
+            "콜라비수확시"
         ]
     },
   labels[2]: {
