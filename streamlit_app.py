@@ -105,8 +105,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.c군"
         ]
-    }
-},
+    },
   labels[2]: {
         'images': [
             "https://via.placeholder.com/300?text=Label1_Image1",
