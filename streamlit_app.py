@@ -30,7 +30,7 @@ def display_left_content(image, prediction, probs, labels):
         st.markdown(f"""
             <div style="background-color: #f0f0f0; border-radius: 5px; padding: 5px; margin: 5px 0;">
                 <strong style="color: #333;">{label}:</strong>
-                <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%; padding: 2px;">
+                <div style="background-color: #81DAF5; border-radius: 5px; width: 100%; padding: 2px;">
                     <div style="background-color: #4CAF50; width: {prob*100}%; padding: 5px 0; border-radius: 5px; text-align: center; color: white;">
                         {prob:.4f}
                     </div>
