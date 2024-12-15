@@ -44,13 +44,13 @@ def display_right_content(labels):
     # 1st Row - Images based on labels
     for i, label in enumerate(labels[:3]):
         with cols[i]:
-            st.image(f"https://via.placeholder.com/150?text={label}", caption=f"이미지: {label}", use_column_width=True)
+            st.image(f"https://www.youtube.com/watch?v=fUv7rQdFibg", caption=f"이미지: {label}", use_column_width=True)
 
     # 2nd Row - YouTube Videos based on labels
     for i, label in enumerate(labels[:3]):
         with cols[i]:
             st.video("https://www.youtube.com/watch?v=fUv7rQdFibg", start_time=0)
-            st.caption(f"유튜브: {labe법")
+            st.caption(f"김지민 .")
 
 # 모델 로드
 st.write("모델을 로드 중입니다. 잠시만 기다려주세요...")
