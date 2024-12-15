@@ -114,13 +114,13 @@ content_data = {
         ],
         'videos': [
             "https://www.youtube.com/watch?v=A2FMU3kArDU",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=npT2lfpEp5c",
+            "https://www.youtube.com/watch?v=Br8BxvG6otA"
         ],
         'texts': [
-            "당근",
-            "당군",
-            "당귄"
+            "당근재배방법",
+            "당근의 효능",
+            "당근심는시기"
         ]
     }
 }
