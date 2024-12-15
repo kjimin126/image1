@@ -78,19 +78,19 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/ZVxHpzh/0008671-organic-cucumbers-2-count.jpg",
+            "https://i.ibb.co/3SRdKHP/OIP-2.jpg",
+            "https://i.ibb.co/JBRxs4J/101605085708318.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=fUv7rQdFibg&t=2s",
+            "https://www.youtube.com/watch?v=HnwMlLgNiIw",
+            "https://www.youtube.com/watch?v=mkNBtg12TWk"
         ],
         'texts': [
-            "당근",
-            "당군",
-            "당귄"
+            "오이재배방법",
+            "오이의 효능",
+            "오이수확시기"
         ]
     },
     labels[1]: {
