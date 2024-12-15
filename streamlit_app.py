@@ -95,7 +95,6 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "",
             "https://i.ibb.co/s54NvZD/ea4557acd64c49bb80be5ed97884dfbb-512.jpg",
             "https://i.ibb.co/zZJ4541/img.jpg",
             "https://i.ibb.co/gFd3JGB/1-1.jpg"
@@ -108,7 +107,7 @@ content_data = {
          'texts': [
             "콜라비 재배방법",
             "콜라비의 효능",
-            "콜라비수확시"
+            "콜라비수확시기"
         ]
     },
   labels[2]: {
