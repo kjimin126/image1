@@ -124,6 +124,7 @@ content_data = {
             "당귄"
         ]
     }
+
 # 레이아웃 설정
 left_column, right_column = st.columns([1, 2])  # 왼쪽과 오른쪽의 비율 조정
 
