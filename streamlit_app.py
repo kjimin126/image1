@@ -108,9 +108,9 @@ content_data = {
     },
   labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/QkMfNmm/1000-20230207033700515-1.jpg",
+            "https://i.ibb.co/C6w79sW/depositphotos-42061579-stock-photo-carrot-isolated.jpg",
+            "https://i.ibb.co/LQpmZsQ/OIP.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
