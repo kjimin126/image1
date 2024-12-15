@@ -52,6 +52,11 @@ def display_right_content(labels):
             st.video("https://www.youtube.com/watch?v=fUv7rQdFibg", start_time=0)
             st.caption(f"김지민 .")
 
+ # 3rd Row - Text based on labels
+    for i, label in enumerate(labels[:3]):
+        with cols[i]:
+            st.write(f"{label} 관련 텍스트 내용입니다.")
+            
 # 모델 로드
 st.write("모델을 로드 중입니다. 잠시만 기다려주세요...")
 learner = load_model_from_drive(file_id)
